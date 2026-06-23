@@ -1,4 +1,4 @@
-# Production Journal — Sukit Sopha
+# Production Journal — Sukit Spha 
 
 รายวิชา: Digital Game Production Management
 วันที่เริ่มต้น: 6/23/2026
@@ -12,4 +12,3 @@
 - บันทึกการเรียนรู้ประจ าสัปดาห์
 - แบบฝึกหัด Git workshop
 - เอกสารที่สร้างระหว่างเรียน
--
