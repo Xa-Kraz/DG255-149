@@ -1,4 +1,4 @@
-# Production Journal — Sukit Spha 
+# Production Journal — Sukit Sopha
 
 รายวิชา: Digital Game Production Management
 วันที่เริ่มต้น: 6/23/2026
